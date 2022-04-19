@@ -1,7 +1,7 @@
 import portfolioPic from "../images/portfolio.jpg"
 function AboutMe() {
     return (
-     <div>
+     <div className= "row" >
           <div class="image-container">
         <img class="img-me" src={portfolioPic} alt="my portfolio pic"/>
     </div>

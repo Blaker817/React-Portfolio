@@ -20,7 +20,7 @@ if (info[property])
     }
     return (
         <div className="p-3 row justify-content-center  " >
-            <div className="col-8">
+            <div className="col-11 col-md-8">
                 <form>
                     <div class="form-group">
                         <label for="exampleInputEmail1">Email address</label>

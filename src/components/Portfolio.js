@@ -6,7 +6,7 @@ function Portfolio() {
        {projects.map(project=>{
 
            return(
-               <div>
+               <div className= "portfolios">
                    <p>{project.title}</p>
                    <img src={project.image} alt="" />
                </div>

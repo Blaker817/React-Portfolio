@@ -13,10 +13,10 @@ function App() {
   return (
     <div className="App">
      <Header setComponent={setComponent} component={component} />
-     {/* {component==="aboutMe"&& <AboutMe />}
+     {component==="aboutMe"&& <AboutMe />}
      {component==="portfolio"&& <Portfolio />}
      {component==="contact"&& <Contact />}
-     {component==="resume"&& <Resume />} */}
+     {component==="resume"&& <Resume />}
      <Footer />
     </div>
   );
