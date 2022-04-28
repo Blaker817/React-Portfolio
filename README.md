@@ -9,7 +9,7 @@ A react portfolio built for smu coding bootcamp with about me links to my deploy
 [Git Repo Link Portfolio](https://github.com/Blaker817/React-Portfolio)
 
 ## Deployed link:
-[Heroku PWA](https://blake-elliott-pwa-smu.herokuapp.com/)
+[Heroku ](https://blake-elliott-pwa-smu.herokuapp.com/)
 
 ## Installation:
 Clone Repo and run npm install
